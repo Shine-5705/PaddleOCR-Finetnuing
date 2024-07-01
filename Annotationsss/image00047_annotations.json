@@ -1,0 +1,792 @@
+{
+    "filename": "image00047.jpg",
+    "split": "train",
+    "imgid": 1,
+    "html": {
+        "structure": {
+            "tokens": []
+        },
+        "cell": [
+            {
+                "tokens": [
+                    "TABLE 1",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    46,
+                    53,
+                    247,
+                    70
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    40,
+                    77,
+                    213,
+                    99
+                ]
+            },
+            {
+                "tokens": [
+                    "(in \u20ac millions, except percentages)",
+                    "nan",
+                    "Three months ended",
+                    "nan",
+                    "nan",
+                    "Three months ended",
+                    "nan",
+                    "nan",
+                    "Three months ended",
+                    "nan"
+                ],
+                "bbox": [
+                    25,
+                    139,
+                    105,
+                    154
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "June 30, 2023",
+                    "March 31, 2023",
+                    "June 30, 2022",
+                    "June 30, 2023",
+                    "March 31, 2023",
+                    "June 30, 2022",
+                    "June 30, 2023",
+                    "March 31, 2023",
+                    "June 30, 2022"
+                ],
+                "bbox": [
+                    24,
+                    156,
+                    136,
+                    173
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "Consolidated",
+                    "nan",
+                    "nan",
+                    "Premium",
+                    "nan",
+                    "nan",
+                    "Ad-Supported",
+                    "nan"
+                ],
+                "bbox": [
+                    26,
+                    174,
+                    117,
+                    185
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS revenue",
+                    "3,177",
+                    "3,042",
+                    "2,864",
+                    "2,773",
+                    "2,713",
+                    "2,504",
+                    "404",
+                    "329",
+                    "360"
+                ],
+                "bbox": [
+                    25,
+                    191,
+                    131,
+                    202
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS cost of revenue",
+                    "2,411",
+                    "2,276",
+                    "2,160",
+                    "1,984",
+                    "1,937",
+                    "1,804",
+                    "427",
+                    "339",
+                    "356"
+                ],
+                "bbox": [
+                    26,
+                    222,
+                    95,
+                    233
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS gross profit",
+                    "766",
+                    "766",
+                    "704",
+                    "789",
+                    "776",
+                    "700",
+                    "-23",
+                    "-10",
+                    "4"
+                ],
+                "bbox": [
+                    29,
+                    243,
+                    138,
+                    261
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS gross margin",
+                    "24.1 %",
+                    "25.2 %",
+                    "24.6 %",
+                    "28.5 %",
+                    "28.6 %",
+                    "28.0 %",
+                    "(5.7)%",
+                    "(3.0)%",
+                    "1.1%"
+                ],
+                "bbox": [
+                    29,
+                    264,
+                    131,
+                    278
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    28,
+                    285,
+                    74,
+                    309
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjustments:",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    29,
+                    311,
+                    233,
+                    333
+                ]
+            },
+            {
+                "tokens": [
+                    "Less: changes in prior period estimates for\nrights holder liabilities",
+                    "(8)",
+                    "-",
+                    "(11)",
+                    "(3)",
+                    "-",
+                    "(11)",
+                    "(5)",
+                    "-",
+                    "-"
+                ],
+                "bbox": [
+                    34,
+                    337,
+                    256,
+                    367
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Car Thing charge",
+                    "-",
+                    "-",
+                    "31",
+                    "nan",
+                    "-",
+                    "31",
+                    "-",
+                    "-",
+                    "-"
+                ],
+                "bbox": [
+                    33,
+                    369,
+                    129,
+                    380
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Employee severance and related\ncharges",
+                    "6 (4)",
+                    "3 (5)",
+                    "-",
+                    "-",
+                    "1 (5)",
+                    "-",
+                    "6 (4)",
+                    "2 (5)",
+                    "-"
+                ],
+                "bbox": [
+                    25,
+                    395,
+                    205,
+                    410
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Impairmment charge on real estate\nassets",
+                    "7 (2)",
+                    "-",
+                    "-",
+                    "(2) 1",
+                    "-",
+                    "-",
+                    "6 (2)",
+                    "-",
+                    "-"
+                ],
+                "bbox": [
+                    28,
+                    412,
+                    211,
+                    424
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Write-off of content assets and contract\ntermination and other costs",
+                    "39 (3)",
+                    "-",
+                    "-",
+                    "-",
+                    "-",
+                    "-",
+                    "39",
+                    "-",
+                    "-"
+                ],
+                "bbox": [
+                    265,
+                    108,
+                    353,
+                    121
+                ]
+            },
+            {
+                "tokens": [
+                    "Total adjustments",
+                    "44",
+                    "3",
+                    "20",
+                    "(2)",
+                    "1",
+                    "20",
+                    "46",
+                    "2",
+                    "-"
+                ],
+                "bbox": [
+                    359,
+                    89,
+                    475,
+                    104
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    674,
+                    89,
+                    800,
+                    105
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjusted gross profit (non-IFRS)",
+                    "810",
+                    "769",
+                    "724",
+                    "787",
+                    "777",
+                    "720",
+                    "23",
+                    "(8)",
+                    "4"
+                ],
+                "bbox": [
+                    1001,
+                    88,
+                    1119,
+                    104
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjusted gross margin (non-IFRS)",
+                    "25.5 %",
+                    "25.3 %",
+                    "25.3 %",
+                    "28.4 %",
+                    "28.6 %",
+                    "28.8 %",
+                    "5.7 %",
+                    "(2.4)%",
+                    "1.1%"
+                ],
+                "bbox": [
+                    482,
+                    104,
+                    565,
+                    120
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    587,
+                    109,
+                    675,
+                    122
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    369,
+                    107,
+                    459,
+                    118
+                ]
+            },
+            {
+                "tokens": [
+                    "TABLE 2",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    691,
+                    109,
+                    781,
+                    120
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    800,
+                    108,
+                    889,
+                    119
+                ]
+            },
+            {
+                "tokens": [
+                    "(Unaudited)\n(in \u20ac millions, except percentages)",
+                    "nan",
+                    "Three months ended",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    912,
+                    106,
+                    997,
+                    121
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "June 30, 2023",
+                    "March 31, 2023",
+                    "June 30, 2022",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    1013,
+                    106,
+                    1103,
+                    125
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS operating loss",
+                    "(247)",
+                    "(156)",
+                    "(194)",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    1125,
+                    109,
+                    1207,
+                    122
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjustments:",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    372,
+                    123,
+                    455,
+                    137
+                ]
+            },
+            {
+                "tokens": [
+                    "Less: changes in prior period estimates for rights holder liabilities",
+                    "(8)",
+                    "-",
+                    "(11)",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    315,
+                    141,
+                    349,
+                    155
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Car Thing charge",
+                    "-",
+                    "-",
+                    "31 (1)",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    313,
+                    153,
+                    346,
+                    171
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Employee severance and related charges",
+                    "12 (4)",
+                    "44",
+                    "-",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    321,
+                    173,
+                    349,
+                    188
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Impairmment charge on real estate assets",
+                    "90 (2)",
+                    "-",
+                    "-",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    306,
+                    191,
+                    353,
+                    203
+                ]
+            },
+            {
+                "tokens": [
+                    "Add: Write-off of assets and contract termination and other costs",
+                    "41 (3)",
+                    "-",
+                    "-",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    324,
+                    241,
+                    349,
+                    263
+                ]
+            },
+            {
+                "tokens": [
+                    "Total adjustments",
+                    "135",
+                    "44",
+                    "20",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    335,
+                    293,
+                    367,
+                    309
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    332,
+                    317,
+                    353,
+                    333
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjusted operating loss (non-IFRS)",
+                    "(112)",
+                    "(112)",
+                    "(174)",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    327,
+                    348,
+                    360,
+                    361
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    323,
+                    367,
+                    346,
+                    379
+                ]
+            },
+            {
+                "tokens": [
+                    "IFRS operating margin",
+                    "(7.8)%",
+                    "(5.1)%",
+                    "(6.8)%",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    322,
+                    396,
+                    349,
+                    407
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjusted operating margin (non-IFRS)",
+                    "(3.5)%",
+                    "(3.7)%",
+                    "(6.1)%",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    306,
+                    417,
+                    353,
+                    423
+                ]
+            }
+        ]
+    }
+}

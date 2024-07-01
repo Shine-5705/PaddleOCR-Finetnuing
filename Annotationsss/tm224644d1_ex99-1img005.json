@@ -1,0 +1,246 @@
+{
+    "filename": "tm224644d1_ex99-1img005.jpg",
+    "split": "train",
+    "imgid": 1,
+    "html": {
+        "structure": {
+            "tokens": []
+        },
+        "cell": [
+            {
+                "tokens": [
+                    "€ million, unless otherwise stated",
+                    "Q4 2021",
+                    "Q4 2020",
+                    "A in %",
+                    "Q4 2021",
+                    "Q4 2020",
+                    "A in %",
+                    "A in % const. curr."
+                ],
+                "bbox": [
+                    130,
+                    205,
+                    539,
+                    239
+                ]
+            },
+            {
+                "tokens": [
+                    "Current cloud backlog2",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "9,447",
+                    "7,155",
+                    "32",
+                    "26"
+                ],
+                "bbox": [
+                    158,
+                    254,
+                    384,
+                    283
+                ]
+            },
+            {
+                "tokens": [
+                    "Thereof SAP S/4HANA Current Cloud Backlog2",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "1,707",
+                    "927",
+                    "84",
+                    "76"
+                ],
+                "bbox": [
+                    136,
+                    341,
+                    345,
+                    359
+                ]
+            },
+            {
+                "tokens": [
+                    "Cloud revenue",
+                    "2,611",
+                    "2,041",
+                    "28",
+                    "2,611",
+                    "2,044",
+                    "28",
+                    "24"
+                ],
+                "bbox": [
+                    836,
+                    292,
+                    891,
+                    312
+                ]
+            },
+            {
+                "tokens": [
+                    "Thereof SAP S/4HANA Cloud revenue",
+                    "329",
+                    "199",
+                    "65",
+                    "329",
+                    "199",
+                    "65",
+                    "61"
+                ],
+                "bbox": [
+                    1137,
+                    292,
+                    1224,
+                    311
+                ]
+            },
+            {
+                "tokens": [
+                    "Software licenses and support revenue",
+                    "4,379",
+                    "4,538",
+                    "-4",
+                    "4,379",
+                    "4,538",
+                    "-4",
+                    "-6"
+                ],
+                "bbox": [
+                    643,
+                    337,
+                    716,
+                    358
+                ]
+            },
+            {
+                "tokens": [
+                    "Cloud and software revenue",
+                    "6,990",
+                    "6,579",
+                    "6",
+                    "6,990",
+                    "6,582",
+                    "6",
+                    "3"
+                ],
+                "bbox": [
+                    741,
+                    338,
+                    808,
+                    358
+                ]
+            },
+            {
+                "tokens": [
+                    "Total revenue",
+                    "7,981",
+                    "7,538",
+                    "6",
+                    "7,981",
+                    "7,541",
+                    "6",
+                    "3"
+                ],
+                "bbox": [
+                    832,
+                    340,
+                    883,
+                    361
+                ]
+            },
+            {
+                "tokens": [
+                    "Share of more predictable revenue (in %)",
+                    "69",
+                    "65",
+                    "5pp",
+                    "69",
+                    "65",
+                    "5pp",
+                    "nan"
+                ],
+                "bbox": [
+                    905,
+                    341,
+                    975,
+                    358
+                ]
+            },
+            {
+                "tokens": [
+                    "Operating profit (loss)",
+                    "1,466",
+                    "2,657",
+                    "-45",
+                    "2,468",
+                    "2,772",
+                    "-11",
+                    "-12"
+                ],
+                "bbox": [
+                    991,
+                    341,
+                    1065,
+                    360
+                ]
+            },
+            {
+                "tokens": [
+                    "Profit (loss) after tax",
+                    "1,447",
+                    "1,934",
+                    "-25",
+                    "2,280",
+                    "2,026",
+                    "13",
+                    "nan"
+                ],
+                "bbox": [
+                    1090,
+                    338,
+                    1152,
+                    361
+                ]
+            },
+            {
+                "tokens": [
+                    "Basic earnings per share (in \u20ac)",
+                    "1.24",
+                    "1.62",
+                    "-23",
+                    "1.86",
+                    "1.70",
+                    "10",
+                    "nan"
+                ],
+                "bbox": [
+                    1162,
+                    321,
+                    1227,
+                    369
+                ]
+            },
+            {
+                "tokens": [
+                    "Number of employees (FTE, December 31)",
+                    "107,415",
+                    "102,430",
+                    "5",
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    143,
+                    388,
+                    313,
+                    410
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,740 @@
+{
+"filename": "image00046.jpg",
+"split": "train",
+"imgid": 1,
+"html": {
+"structure": {
+"tokens": []
+},
+"cell": [
+{
+"tokens": [
+"TABLE 1",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+17,
+89,
+175,
+111
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+13,
+111,
+95,
+141
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+642,
+159,
+759,
+174
+]
+},
+{
+"tokens": [
+"nan",
+"December\n31,2019",
+"March 31.\n2020",
+"June 30.\n2020",
+"September\n30. 2020",
+"December\n31. 2020",
+"March 31,\n2021",
+"June 30.\n2021",
+"September\n30. 2021",
+"December\n31. 2021",
+"March 31.\n2022",
+"June 30,\n2022",
+"September\n30. 2022",
+"December\n31, 2022",
+"March 31,\n2023",
+"June 30.\n2023"
+],
+"bbox": [
+191,
+177,
+250,
+200
+]
+},
+{
+"tokens": [
+"Net cash flows from/(used in) operating activities",
+"203",
+"(9)",
+"39",
+"122",
+"107",
+"65",
+"54",
+"123",
+"119",
+"37",
+"39",
+"40",
+"(70)",
+"59",
+"13"
+],
+"bbox": [
+268,
+179,
+309,
+198
+]
+},
+{
+"tokens": [
+"Capital expenditures",
+"(32)",
+"(12)",
+"(14)",
+"(17)",
+"(35)",
+"(24)",
+"(20)",
+"(25)",
+"(16)",
+"(10)",
+"(5)",
+"(5)",
+"(5)",
+"(2)",
+"(2)"
+],
+"bbox": [
+332,
+177,
+382,
+202
+]
+},
+{
+"tokens": [
+"Change in restricted cash",
+"(2)",
+"-",
+"2",
+"(2)",
+"2",
+"-",
+"-",
+"1",
+"-",
+"(5)",
+"3",
+"-",
+"2",
+"-",
+"(2)"
+],
+"bbox": [
+398,
+180,
+450,
+200
+]
+},
+{
+"tokens": [
+"Free Cash Flow",
+"169",
+"(21)",
+"27",
+"103",
+"74",
+"41",
+"34",
+"99",
+"103",
+"22",
+"37",
+"35",
+"(73)",
+"57",
+"9"
+],
+"bbox": [
+467,
+175,
+527,
+198
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+11,
+207,
+111,
+230
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+12,
+235,
+122,
+247
+]
+},
+{
+"tokens": [
+"TABLE 2",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+12,
+250,
+145,
+267
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+5,
+267,
+100,
+281
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"Last twelve",
+"months ended",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+225,
+207,
+256,
+231
+]
+},
+{
+"tokens": [
+"nan",
+"September 30. 2020",
+"December\n31, 2020",
+"March 31, 2021",
+"June 30. 2021",
+"September 30, 2021",
+"December\n31. 2021",
+"March 31, 2022",
+"June 30, 2022",
+"September 30. 2022",
+"December\n31, 2022",
+"March 31. 2023",
+"June 30. 2023",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+234,
+236,
+258,
+250
+]
+},
+{
+"tokens": [
+"Net cash flows from operating activities",
+"355",
+"259",
+"333",
+"348",
+"349",
+"361",
+"333",
+"318",
+"235",
+"46",
+"68",
+"42",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+234,
+254,
+254,
+264
+]
+},
+{
+"tokens": [
+"Capital expenditures",
+"(75)",
+"(78)",
+"(90)",
+"(96)",
+"(104)",
+"(85)",
+"(71)",
+"(56)",
+"(36)",
+"(25)",
+"(17)",
+"(14)",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+227,
+265,
+258,
+283
+]
+},
+{
+"tokens": [
+"Change in restricted cash",
+"(2)",
+"2",
+"2",
+"-",
+"3",
+"1",
+"(4)",
+"(1)",
+"(2)",
+"-",
+"5",
+"-",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+295,
+206,
+326,
+226
+]
+},
+{
+"tokens": [
+"Free Cash Flow",
+"278",
+"183",
+"245",
+"252",
+"248",
+"277",
+"258",
+"261",
+"197",
+"21",
+"56",
+"28",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+294,
+231,
+327,
+248
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+302,
+254,
+318,
+265
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+299,
+269,
+325,
+282
+]
+},
+{
+"tokens": [
+"TABLE 3",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+362,
+207,
+389,
+234
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+368,
+237,
+397,
+248
+]
+},
+{
+"tokens": [
+"nan",
+"nan",
+"nan",
+"nan",
+"Twelve months ended",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+375,
+247,
+390,
+267
+]
+},
+{
+"tokens": [
+"nan",
+"December 31, 2016",
+"December 31, 2017",
+"December 31, 2018",
+"December 31, 2019",
+"December 31, 2020",
+"December 31, 2021",
+"December 31, 2022",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+369,
+265,
+386,
+279
+]
+},
+{
+"tokens": [
+"Net cash flows from operating activities",
+"101",
+"179",
+"344",
+"573",
+"259",
+"361",
+"46",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+431,
+208,
+461,
+231
+]
+},
+{
+"tokens": [
+"Capital expenditures",
+"(27)",
+"(36)",
+"(125)",
+"(135)",
+"(78)",
+"(85)",
+"(25)",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+434,
+234,
+459,
+251
+]
+},
+{
+"tokens": [
+"Change in restricted cash",
+"(1)",
+"(34)",
+"(10)",
+"2",
+"2",
+"1",
+"-",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+439,
+252,
+458,
+263
+]
+},
+{
+"tokens": [
+"Free Cash Flow",
+"73",
+"109",
+"209",
+"440",
+"183",
+"277",
+"21",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan",
+"nan"
+],
+"bbox": [
+435,
+265,
+453,
+279
+]
+}
+]
+}
+}

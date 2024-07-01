@@ -1,0 +1,278 @@
+{
+    "filename": "image00045.jpg",
+    "split": "train",
+    "imgid": 1,
+    "html": {
+        "structure": {
+            "tokens": []
+        },
+        "cell": [
+            {
+                "tokens": [
+                    "TABLE 1",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    25,
+                    67,
+                    263,
+                    89
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    961,
+                    100,
+                    1085,
+                    116
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "Three months ended",
+                    "nan"
+                ],
+                "bbox": [
+                    857,
+                    116,
+                    941,
+                    128
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "June 30, 2023",
+                    "March 31, 2023",
+                    "June 30, 2022"
+                ],
+                "bbox": [
+                    971,
+                    119,
+                    1066,
+                    131
+                ]
+            },
+            {
+                "tokens": [
+                    "Basic loss per share",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    1108,
+                    115,
+                    1186,
+                    131
+                ]
+            },
+            {
+                "tokens": [
+                    "Net loss attributable to owners of the parent",
+                    "(302)",
+                    "(225)",
+                    "(125)"
+                ],
+                "bbox": [
+                    18,
+                    135,
+                    137,
+                    150
+                ]
+            },
+            {
+                "tokens": [
+                    "Shares used in computation:",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    14,
+                    150,
+                    246,
+                    165
+                ]
+            },
+            {
+                "tokens": [
+                    "Weighted-average ordinary shares outstanding",
+                    "194,420,128",
+                    "193,562,462",
+                    "192,948,032"
+                ],
+                "bbox": [
+                    18,
+                    166,
+                    164,
+                    180
+                ]
+            },
+            {
+                "tokens": [
+                    "Basic loss per share attributable to\nowners of the parent",
+                    "(1.55)",
+                    "(1.16)",
+                    "(0.65)"
+                ],
+                "bbox": [
+                    27,
+                    182,
+                    270,
+                    198
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    21,
+                    203,
+                    172,
+                    224
+                ]
+            },
+            {
+                "tokens": [
+                    "Diluted loss per share",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    18,
+                    247,
+                    147,
+                    260
+                ]
+            },
+            {
+                "tokens": [
+                    "Net loss attributable to owners of the parent",
+                    "(302)",
+                    "(225)",
+                    "(125)"
+                ],
+                "bbox": [
+                    18,
+                    267,
+                    243,
+                    277
+                ]
+            },
+            {
+                "tokens": [
+                    "Fair value gains on dilutive Exchangeable Notes",
+                    "-",
+                    "-",
+                    "(41)"
+                ],
+                "bbox": [
+                    15,
+                    278,
+                    267,
+                    295
+                ]
+            },
+            {
+                "tokens": [
+                    "Net loss used in the computation of diluted loss per share",
+                    "(302)",
+                    "(225)",
+                    "(166)"
+                ],
+                "bbox": [
+                    18,
+                    298,
+                    208,
+                    322
+                ]
+            },
+            {
+                "tokens": [
+                    "Shares used in computation:",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    14,
+                    320,
+                    169,
+                    340
+                ]
+            },
+            {
+                "tokens": [
+                    "Weighted-average ordinary shares outstanding",
+                    "194,420,128",
+                    "193,562,462",
+                    "192,948,032"
+                ],
+                "bbox": [
+                    22,
+                    340,
+                    273,
+                    358
+                ]
+            },
+            {
+                "tokens": [
+                    "Exchangeable Notes",
+                    "-",
+                    "-",
+                    "2,911,500"
+                ],
+                "bbox": [
+                    26,
+                    363,
+                    138,
+                    372
+                ]
+            },
+            {
+                "tokens": [
+                    "Diluted weighted-average ordinary shares",
+                    "194,420,128.00",
+                    "193,562,462.00",
+                    "195,859,532.00"
+                ],
+                "bbox": [
+                    18,
+                    378,
+                    253,
+                    391
+                ]
+            },
+            {
+                "tokens": [
+                    "Diluted loss per share attributable to\nowners of the parent",
+                    "(1.55)",
+                    "(1.16)",
+                    "(0.85)"
+                ],
+                "bbox": [
+                    20,
+                    392,
+                    222,
+                    417
+                ]
+            }
+        ]
+    }
+}

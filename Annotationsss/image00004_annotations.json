@@ -1,0 +1,656 @@
+{
+    "filename": "image00004.jpg",
+    "split": "train",
+    "imgid": 1,
+    "html": {
+        "structure": {
+            "tokens": []
+        },
+        "cell": [
+            {
+                "tokens": [
+                    "TABLE 1",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    12,
+                    84,
+                    86,
+                    99
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    14,
+                    99,
+                    80,
+                    107
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "Three months ended",
+                    "nan"
+                ],
+                "bbox": [
+                    12,
+                    111,
+                    227,
+                    119
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "March 31. 2024",
+                    "December 31, 2023",
+                    "March 31. 2023"
+                ],
+                "bbox": [
+                    24,
+                    121,
+                    162,
+                    135
+                ]
+            },
+            {
+                "tokens": [
+                    "Operating activities",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    22,
+                    135,
+                    142,
+                    145
+                ]
+            },
+            {
+                "tokens": [
+                    "Net income/(loss)",
+                    "197",
+                    "(70)",
+                    "(225)"
+                ],
+                "bbox": [
+                    28,
+                    147,
+                    170,
+                    156
+                ]
+            },
+            {
+                "tokens": [
+                    "Adjustments to reconcile net income/(loss) to net cash flows",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    25,
+                    159,
+                    126,
+                    166
+                ]
+            },
+            {
+                "tokens": [
+                    "Depreciation of property and equipment",
+                    "22",
+                    "23",
+                    "31"
+                ],
+                "bbox": [
+                    24,
+                    171,
+                    158,
+                    182
+                ]
+            },
+            {
+                "tokens": [
+                    "Amortization of intangible assets",
+                    "9",
+                    "11",
+                    "13"
+                ],
+                "bbox": [
+                    24,
+                    185,
+                    97,
+                    191
+                ]
+            },
+            {
+                "tokens": [
+                    "Impairment charges on real estate assets",
+                    "4",
+                    "33",
+                    "-"
+                ],
+                "bbox": [
+                    22,
+                    192,
+                    80,
+                    204
+                ]
+            },
+            {
+                "tokens": [
+                    "Write-off of content assets",
+                    "-",
+                    "(1)",
+                    "-"
+                ],
+                "bbox": [
+                    24,
+                    207,
+                    130,
+                    215
+                ]
+            },
+            {
+                "tokens": [
+                    "Share-based compensation expense",
+                    "69",
+                    "34",
+                    "105"
+                ],
+                "bbox": [
+                    20,
+                    217,
+                    49,
+                    227
+                ]
+            },
+            {
+                "tokens": [
+                    "Finance income",
+                    "(59)",
+                    "(46)",
+                    "(27)"
+                ],
+                "bbox": [
+                    10,
+                    228,
+                    115,
+                    239
+                ]
+            },
+            {
+                "tokens": [
+                    "Finance costs",
+                    "53",
+                    "102",
+                    "77"
+                ],
+                "bbox": [
+                    23,
+                    239,
+                    229,
+                    251
+                ]
+            },
+            {
+                "tokens": [
+                    "Income tax (benefit)/expense",
+                    "(23)",
+                    "(61)",
+                    "19"
+                ],
+                "bbox": [
+                    24,
+                    255,
+                    198,
+                    263
+                ]
+            },
+            {
+                "tokens": [
+                    "Other",
+                    "-",
+                    "5",
+                    "(5)"
+                ],
+                "bbox": [
+                    20,
+                    265,
+                    135,
+                    276
+                ]
+            },
+            {
+                "tokens": [
+                    "Changes in working capital:",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    21,
+                    279,
+                    153,
+                    288
+                ]
+            },
+            {
+                "tokens": [
+                    "Decrease/(increase) in trade receivables and other assets",
+                    "80",
+                    "(97)",
+                    "118"
+                ],
+                "bbox": [
+                    10,
+                    287,
+                    128,
+                    300
+                ]
+            },
+            {
+                "tokens": [
+                    "(Decrease)/increase in trade and other liabilities",
+                    "(171)",
+                    "419",
+                    "(57)"
+                ],
+                "bbox": [
+                    10,
+                    303,
+                    79,
+                    313
+                ]
+            },
+            {
+                "tokens": [
+                    "Increase in deferred revenue",
+                    "7",
+                    "33",
+                    "6"
+                ],
+                "bbox": [
+                    10,
+                    313,
+                    74,
+                    325
+                ]
+            },
+            {
+                "tokens": [
+                    "(Decrease)/increase in provisions",
+                    "-",
+                    "(2)",
+                    "1"
+                ],
+                "bbox": [
+                    13,
+                    326,
+                    166,
+                    337
+                ]
+            },
+            {
+                "tokens": [
+                    "Interest paid on lease liabilities",
+                    "(9)",
+                    "(9)",
+                    "(10)"
+                ],
+                "bbox": [
+                    11,
+                    348,
+                    82,
+                    359
+                ]
+            },
+            {
+                "tokens": [
+                    "Interest received",
+                    "37",
+                    "34",
+                    "23"
+                ],
+                "bbox": [
+                    14,
+                    361,
+                    264,
+                    372
+                ]
+            },
+            {
+                "tokens": [
+                    "Income tax paid",
+                    "(5)",
+                    "(11)",
+                    "(10)"
+                ],
+                "bbox": [
+                    9,
+                    373,
+                    144,
+                    382
+                ]
+            },
+            {
+                "tokens": [
+                    "Net cash flows from operating activities",
+                    "211",
+                    "397",
+                    "59"
+                ],
+                "bbox": [
+                    6,
+                    385,
+                    144,
+                    396
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    12,
+                    395,
+                    181,
+                    407
+                ]
+            },
+            {
+                "tokens": [
+                    "Investing activities",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    11,
+                    409,
+                    102,
+                    419
+                ]
+            },
+            {
+                "tokens": [
+                    "Payment of deferred consideration pertaining to business combinations",
+                    "(7)",
+                    "-",
+                    "(7)"
+                ],
+                "bbox": [
+                    10,
+                    422,
+                    37,
+                    431
+                ]
+            },
+            {
+                "tokens": [
+                    "Purchases of property and equipment",
+                    "(5)",
+                    "(1)",
+                    "(2)"
+                ],
+                "bbox": [
+                    9,
+                    431,
+                    174,
+                    443
+                ]
+            },
+            {
+                "tokens": [
+                    "Purchases of short term investments",
+                    "(998)",
+                    "(809)",
+                    "(237)"
+                ],
+                "bbox": [
+                    12,
+                    456,
+                    92,
+                    467
+                ]
+            },
+            {
+                "tokens": [
+                    "Sales and maturities of short term investments",
+                    "900",
+                    "802",
+                    "111"
+                ],
+                "bbox": [
+                    9,
+                    467,
+                    158,
+                    480
+                ]
+            },
+            {
+                "tokens": [
+                    "Change in restricted cash",
+                    "1",
+                    "-",
+                    "-"
+                ],
+                "bbox": [
+                    12,
+                    481,
+                    96,
+                    489
+                ]
+            },
+            {
+                "tokens": [
+                    "Other",
+                    "(5)",
+                    "3",
+                    "13"
+                ],
+                "bbox": [
+                    11,
+                    494,
+                    108,
+                    504
+                ]
+            },
+            {
+                "tokens": [
+                    "Net cash flows used in investing activities",
+                    "(114)",
+                    "(5)",
+                    "(122)"
+                ],
+                "bbox": [
+                    10,
+                    501,
+                    273,
+                    515
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    14,
+                    517,
+                    162,
+                    527
+                ]
+            },
+            {
+                "tokens": [
+                    "Financing activities",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    12,
+                    535,
+                    218,
+                    548
+                ]
+            },
+            {
+                "tokens": [
+                    "Proceeds from exercise of stock options",
+                    "242",
+                    "224",
+                    "75"
+                ],
+                "bbox": [
+                    10,
+                    552,
+                    200,
+                    562
+                ]
+            },
+            {
+                "tokens": [
+                    "Payments of lease liables",
+                    "(15)",
+                    "(11)",
+                    "(15)"
+                ],
+                "bbox": [
+                    12,
+                    564,
+                    250,
+                    575
+                ]
+            },
+            {
+                "tokens": [
+                    "Lease incentives received",
+                    "-",
+                    "-",
+                    "2"
+                ],
+                "bbox": [
+                    12,
+                    575,
+                    174,
+                    588
+                ]
+            },
+            {
+                "tokens": [
+                    "Payments for employee taxes withheld from restricted stock unit releases",
+                    "(25)",
+                    "(19)",
+                    "(13)"
+                ],
+                "bbox": [
+                    700,
+                    61,
+                    787,
+                    73
+                ]
+            },
+            {
+                "tokens": [
+                    "Net cash flows from financing activities",
+                    "202",
+                    "194",
+                    "49"
+                ],
+                "bbox": [
+                    621,
+                    76,
+                    686,
+                    84
+                ]
+            },
+            {
+                "tokens": [
+                    "nan",
+                    "nan",
+                    "nan",
+                    "nan"
+                ],
+                "bbox": [
+                    702,
+                    76,
+                    782,
+                    83
+                ]
+            },
+            {
+                "tokens": [
+                    "Net increase/(decrease) in cash and cash equivalents",
+                    "299",
+                    "586",
+                    "(14)"
+                ],
+                "bbox": [
+                    796,
+                    75,
+                    860,
+                    83
+                ]
+            },
+            {
+                "tokens": [
+                    "Cash and cash equivalents at beginning of the period",
+                    "3,114",
+                    "2,615",
+                    "2,483"
+                ],
+                "bbox": [
+                    678,
+                    99,
+                    696,
+                    106
+                ]
+            },
+            {
+                "tokens": [
+                    "Net foreign exchange gains/(losses) on cash and cash equivalents",
+                    "38",
+                    "(87)",
+                    "(26)"
+                ],
+                "bbox": [
+                    765,
+                    101,
+                    782,
+                    106
+                ]
+            },
+            {
+                "tokens": [
+                    "Cash and cash equivalents at period end",
+                    "3,451",
+                    "3,114",
+                    "2,443"
+                ],
+                "bbox": [
+                    845,
+                    100,
+                    868,
+                    107
+                ]
+            }
+        ]
+    }
+}

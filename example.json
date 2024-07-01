@@ -1,0 +1,24 @@
+{
+    "filename": "example.png",
+    "split": "train",
+    "imgid": 1,
+    "html": {
+        "structure": {
+            "tokens": []
+        },
+        "cells": [
+            {
+                "tokens": [
+                    "\u20ac shine",
+                    "btexh"
+                ],
+                "bbox": [
+                    4,
+                    9,
+                    51,
+                    25
+                ]
+            }
+        ]
+    }
+}

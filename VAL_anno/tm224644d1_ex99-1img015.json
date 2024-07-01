@@ -1,0 +1,446 @@
+{
+"filename": "tm224644d1_ex99-1img015.jpg",
+"split": "val",
+"imgid": 1,
+"html": {
+"structure": {
+"tokens": []
+},
+"cell": [
+{
+"tokens": [
+"Cloud",
+"2,611",
+"2,041",
+"28"
+],
+"bbox": [
+125,
+197,
+519,
+325
+]
+},
+{
+"tokens": [
+"Software licenses",
+"1,458",
+"1,703",
+"-14"
+],
+"bbox": [
+130,
+382,
+693,
+416
+]
+},
+{
+"tokens": [
+"Software support",
+"2,920",
+"2,835",
+"3"
+],
+"bbox": [
+133,
+426,
+713,
+460
+]
+},
+{
+"tokens": [
+"Software licenses and support",
+"4,379",
+"4,538",
+"-4"
+],
+"bbox": [
+135,
+485,
+347,
+511
+]
+},
+{
+"tokens": [
+"Cloud and software",
+"6,990",
+"6,579",
+"6"
+],
+"bbox": [
+159,
+526,
+223,
+547
+]
+},
+{
+"tokens": [
+"Services",
+"991",
+"960",
+"3"
+],
+"bbox": [
+176,
+554,
+192,
+589
+]
+},
+{
+"tokens": [
+"Total revenue",
+"7,981",
+"7,538",
+"6"
+],
+"bbox": [
+181,
+557,
+320,
+576
+]
+},
+{
+"tokens": [
+"Cost of cloud",
+"-873",
+"-662",
+"32"
+],
+"bbox": [
+184,
+589,
+315,
+609
+]
+},
+{
+"tokens": [
+"Cost of software licenses and support",
+"-531",
+"-537",
+"-1"
+],
+"bbox": [
+163,
+623,
+382,
+646
+]
+},
+{
+"tokens": [
+"Cost of cloud and software",
+"-1,405",
+"-1,199",
+"17"
+],
+"bbox": [
+164,
+656,
+316,
+673
+]
+},
+{
+"tokens": [
+"Cost of services",
+"-753",
+"-703",
+"7"
+],
+"bbox": [
+168,
+689,
+232,
+710
+]
+},
+{
+"tokens": [
+"Total cost of revenue",
+"-2,157",
+"-1,902",
+"13"
+],
+"bbox": [
+142,
+726,
+258,
+744
+]
+},
+{
+"tokens": [
+"Gross profit",
+"5,823",
+"5,636",
+"3"
+],
+"bbox": [
+960,
+491,
+1032,
+507
+]
+},
+{
+"tokens": [
+"Research and development",
+"-1,412",
+"-1,132",
+"25"
+],
+"bbox": [
+980,
+527,
+1037,
+542
+]
+},
+{
+"tokens": [
+"Sales and marketing",
+"-2,168",
+"-1,744",
+"24"
+],
+"bbox": [
+982,
+556,
+1036,
+574
+]
+},
+{
+"tokens": [
+"General and administration",
+"-756",
+"-282",
+">100"
+],
+"bbox": [
+984,
+589,
+1028,
+604
+]
+},
+{
+"tokens": [
+"Restructuring",
+"-6",
+"7",
+"<-100"
+],
+"bbox": [
+980,
+624,
+1033,
+644
+]
+},
+{
+"tokens": [
+"Other operating income/expense, net",
+"-16",
+"171",
+"<-100"
+],
+"bbox": [
+980,
+657,
+1032,
+676
+]
+},
+{
+"tokens": [
+"Total operating expenses",
+"-6,515",
+"-4,882",
+"33"
+],
+"bbox": [
+1000,
+695,
+1031,
+710
+]
+},
+{
+"tokens": [
+"Operating profit (loss)",
+"1,466",
+"2,657",
+"-45"
+],
+"bbox": [
+975,
+723,
+1031,
+745
+]
+},
+{
+"tokens": [
+"Other non-operating income/expense, net",
+"-29",
+"-58",
+"-50"
+],
+"bbox": [
+1052,
+490,
+1136,
+509
+]
+},
+{
+"tokens": [
+"Finance income",
+"858",
+"331",
+">100"
+],
+"bbox": [
+1080,
+522,
+1124,
+544
+]
+},
+{
+"tokens": [
+"Finance costs",
+"-335",
+"-223",
+"50"
+],
+"bbox": [
+1076,
+554,
+1128,
+576
+]
+},
+{
+"tokens": [
+"Financial income, net",
+"523",
+"107",
+">100"
+],
+"bbox": [
+1087,
+591,
+1120,
+606
+]
+},
+{
+"tokens": [
+"Profit (loss) before tax",
+"1,960",
+"2,706",
+"-28"
+],
+"bbox": [
+1075,
+620,
+1129,
+640
+]
+},
+{
+"tokens": [
+"Income tax expense",
+"-513",
+"-772",
+"-34"
+],
+"bbox": [
+1078,
+656,
+1128,
+678
+]
+},
+{
+"tokens": [
+"Profit (loss) after tax",
+"1,447",
+"1,934",
+"-25"
+],
+"bbox": [
+1084,
+690,
+1127,
+710
+]
+},
+{
+"tokens": [
+"Attributable to owners of parent",
+"1,461",
+"1,908",
+"-23"
+],
+"bbox": [
+1080,
+727,
+1134,
+742
+]
+},
+{
+"tokens": [
+"Attributable to non-controlling interests",
+"-14",
+"26",
+"<-100"
+],
+"bbox": [
+1168,
+486,
+1224,
+509
+]
+},
+{
+"tokens": [
+"Earnings per share, basic (in \u20ac)",
+"1.24",
+"1.62",
+"-23"
+],
+"bbox": [
+1188,
+525,
+1232,
+541
+]
+},
+{
+"tokens": [
+"Earnings per share, diluted (in \u20ac)\u00b9",
+"1.24",
+"1.62",
+"-23"
+],
+"bbox": [
+1183,
+561,
+1222,
+577
+]
+}
+]
+}
+}
