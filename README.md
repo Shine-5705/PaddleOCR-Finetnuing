@@ -68,7 +68,7 @@ eval:
 <h3>9. Handle Common Errors</h3>
 
 <p>If you encounter <code>RecursionError: maximum recursion depth exceeded</code>, ensure your JSON files are correctly formatted and paths are properly escaped.</p>
-
+<img src="error.png" alt="RecursionError">
 <h3>10. Export to Inference Model</h3>
 
 <p>Export the fine-tuned model for inference.</p>
